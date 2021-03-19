@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @T0MASD
 - 👀 I’m interested in automation, monitoring and api’s 
 - 🌱 I’m currently learning golang 
-- 💞️ I’m looking to collaborate on www.tomas.io
+- 💞️ I’m looking for volunteers to collaborate on www.tomas.io
 - 📫 My contact details in commit messages are correct 
 
 <!---
