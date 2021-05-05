@@ -1,3 +1,5 @@
+![netbsd 2.0 on mac 9500 powerpc](https://raw.githubusercontent.com/T0MASD/T0MASD/main/screenshot.jpg)
+
 - 👋 Hi, I’m @T0MASD
 - 👀 I’m interested in automation, monitoring and api’s 
 - 🌱 I’m currently learning golang 
