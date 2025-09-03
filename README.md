@@ -1,4 +1,4 @@
-![netbsd 2.0 on mac 9500 powerpc](https://raw.githubusercontent.com/T0MASD/T0MASD/main/screenshot.jpg)
+![A photo shows a computer screen from 2005 displaying a NetBSD 2.0 system with a custom-compiled kernel running on a PowerPC-based Apple Macintosh, where the black-on-white text is an inherited visual artifact from the machine's low-level Open Firmware, highlighting a successful, non-native OS port.](https://raw.githubusercontent.com/T0MASD/T0MASD/main/screenshot.jpg)
 
 - 👋 Hi, I’m @T0MASD
 - 👀 I’m interested in automation, monitoring and api’s 
